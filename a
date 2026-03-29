@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>unixityyy.dev</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="hero">
+        <h1>unixityyy.dev</h1>
+        <p>domain bought by pwR</p>
+    </header>
+
+    <main class="container">
+        <div class="card">
+            <h3>Project Rizz</h3>
+            <p>Game on the Meta Horizon Store that uses Gorilla Tag locomotion.</p>
+            <a href="https://www.meta.com/experiences/project-rizz/7491889710860430" target="_blank" class="btn">Check it out</a>
+            <br>
+            <span class="tag">MAIN PROJECT</span>
+        </div>
+        <div class="card">
+            <h3>Starlight</h3>
+            <p>Unblocked music website for school.</p>
+            <a href="https://starlight.thedaedals.com" target="_blank" class="btn">Check it out</a>
+            <br>
+            <span class="tag">SIDE PROJECT</span>
+        </div>
+    </main>
+</body>
+</html>
